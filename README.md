@@ -68,6 +68,11 @@ The agent checks the following seven data points:
 * Call Transfer
 * Call Recording and Transcript
 
+## Retell Agent
+
+The configured voice agent is available at [Retell agent](https://agent.retellai.com/orb/agent_a1721278f2dc69884083526481).
+The access token from the supplied URL is intentionally not stored in this repository.
+
 ## Testing
 
 The agent was tested using multiple edge cases:
